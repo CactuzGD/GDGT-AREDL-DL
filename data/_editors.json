@@ -1,0 +1,76 @@
+[
+    {
+        "role": "owner",
+        "members": [
+            {
+                "name": "Placeholder owner",
+                "link": "https://www.youtube.com/channel/UC4N25ULgPMmeKv5XwgJD5-A"
+            }
+        ]
+    },
+    {
+        "role": "coowner",
+        "members": [
+            {
+                "name": "SEDTHEPRODIGY",
+                "link": "https://www.youtube.com/channel/UCDp8z5-vtUg8QJdDM5Yh-tg"
+            }
+        ]
+    },
+    {
+        "role": "admin",
+        "members": [
+            {
+                "name": "jacob",
+                "link": "https://youtube.com/@smjacob."
+            }
+        ]
+    },
+    {
+        "role": "trial",
+        "members": [
+            {
+                "name": "faulheitsmensch",
+                "link": "https://www.youtube.com/@faulheitsmensch6537"
+            }
+        ]
+    },
+    {
+        "role": "helper",
+        "members": [
+            {
+                "name": "exofr",
+                "link": "https://www.youtube.com/@ex0fr/featured"
+            }
+        ]
+    },
+    {
+        "role": "dev",
+            "members": [
+                {
+                    "name": "Simolater",
+                    "link": "https://www.youtube.com/channel/UCHuFRMtpbYyVHIjXG1-h7SA"
+                },
+                {
+                    "name": "Infectus",
+                    "link": "https://www.youtube.com/@infectus"
+                },
+                {
+                    "name": "Zoink Doink",
+                    "link": "https://www.youtube.com/channel/UCaGtN9gENwLEX15tZMsGrow"
+                },
+                {
+                    "name": "Oculations",
+                    "link": "https://www.youtube.com/@Oculations"
+                },
+                {
+                    "name": "WinDoge",
+                    "link": "https://www.youtube.com/@windogee"
+                },
+                {
+                    "name": "Thelazycat",
+                    "link": "https://www.youtube.com/channel/UCF_iMxbHQNzFNHFMSqb-qAQ"
+                }
+            ]
+    }
+]
